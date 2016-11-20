@@ -8,7 +8,7 @@ Its payload is to infect all *.exe on system and all *.bat and disables internet
 
 Basically after executing your system is screwed ( must reinstall windows )
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 Batch Windows Password Recovery
 
