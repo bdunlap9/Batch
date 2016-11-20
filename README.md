@@ -20,5 +20,5 @@ Just have to double click and wait for txt file to be displayed contiangs the us
 
 Works just like the TskMgr.exe in C:\Windows\System32 except that it is written entirly in batch
 
----------------------------------------------------------------------------------------------------------------------------------\
+---------------------------------------------------------------------------------------------------------------------------------
 
