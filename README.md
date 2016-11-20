@@ -13,3 +13,9 @@ Basically after executing your system is screwed ( must reinstall windows )
 # Batch Windows Password Recovery
 
 Just have to double click and wait for txt file to be displayed contiangs the users on windows machine passwords
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+# Batch Based Task Manager
+
+Works just like the TskMgr.exe in C:\Windows\System32 except that it is written entirly in batch
