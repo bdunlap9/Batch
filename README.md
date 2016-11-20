@@ -10,6 +10,6 @@ Basically after executing your system is screwed ( must reinstall windows )
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Batch Windows Password Recovery
+# Batch Windows Password Recovery
 
 Just have to double click and wait for txt file to be displayed contiangs the users on windows machine passwords
