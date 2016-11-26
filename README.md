@@ -27,6 +27,7 @@ Works just like the TskMgr.exe in C:\Windows\System32 except that it is written 
 # Batch Network Worm with Download & Execute Payload
 
 Created on 11/25/2016
+
 FUD if you remove the "reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v "Windows Services" /t "REG_SZ" /d %0" section.
 
 
